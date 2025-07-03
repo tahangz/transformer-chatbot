@@ -11,10 +11,10 @@ The Transformer uses:
 - Encoder-decoder blocks with residual connections
 
 ### Key Parameters
-- `d_model`: Embedding size
-- `n_heads`: Number of attention heads
-- `num_layers`: Number of encoder/decoder layers
-- `dropout`: Dropout rate for regularization
+- `d_model`: Embedding size (e.g. 512)
+- `n_heads`: Number of attention heads (e.g. 8)
+- `num_layers`: Layers in encoder/decoder (e.g. 4)
+- `dropout`: Regularization to prevent overfitting
 
 ## 🧪 Pipeline
 1. **Preprocessing** – Tokenize and pad sentence pairs
