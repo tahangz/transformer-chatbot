@@ -6,7 +6,7 @@ This project implements a basic chatbot using the original Transformer architect
 
 
 <p align="center">
-  <img src="Screenshot 2025-07-03 031652.png" alt="Sample Gesture" width="900"/>
+  <img src="Screenshot 2025-07-03 031652.png" alt="Sample Gesture" width="750"/>
 </p>
 
 ## 🔧 Model Overview
