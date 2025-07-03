@@ -2,6 +2,12 @@
 
 A simple chatbot built using the vanilla Transformer architecture (Vaswani et al., 2017). It uses the encoder-decoder attention mechanism to learn basic conversational patterns from paired text data.
 
+## Features
+- Encoder-Decoder Transformer (vanilla version)
+- Positional Encoding
+- Trained on basic dialogue pairs
+- Inference with greedy decoding
+
 ## 🔧 Model Overview
 The Transformer uses:
 - Multi-head self-attention
