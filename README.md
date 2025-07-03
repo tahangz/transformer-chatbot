@@ -1,5 +1,5 @@
 # Transformer Chatbot 🤖
-A simple chatbot built using the vanilla Transformer architecture.
+A simple chatbot built using the vanilla Transformer architecture, coded from scratch.
 This project implements a basic chatbot using the original Transformer architecture introduced by Google in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762).
 
 > 🧠 This work is inspired by Google's groundbreaking research on attention mechanisms and sequence modeling.
