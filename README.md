@@ -18,7 +18,7 @@ The Transformer uses:
 ### Key Parameters
 - `d_model`: Embedding size (e.g. 512)
 - `n_heads`: Number of attention heads (e.g. 8)
-- `num_layers`: Layers in encoder/decoder (e.g. 4)
+- `num_layers`: Layers in encoder/decoder (e.g. 4, 8)
 - `dropout`: Regularization to prevent overfitting
 
 ## 🧪 Pipeline
